@@ -36,3 +36,4 @@ end
 
 gem "angular-rails-templates"
 gem "ngannotate-rails"
+gem "responders"
