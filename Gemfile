@@ -36,3 +36,5 @@ end
 
 gem "angular-rails-templates"
 gem "ngannotate-rails"
+gem "responders"
+gem "angular_rails_csrf"
