@@ -1,4 +1,4 @@
-angular.module('angularNews', ['ui.router', 'templates'])
+angular.module('angularNews', ['ui.router', 'templates', 'Devise'])
 .config([
 '$stateProvider',
 '$urlRouterProvider',
